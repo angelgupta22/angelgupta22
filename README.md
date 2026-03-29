@@ -50,16 +50,6 @@ I build things at the intersection of **physics and machine learning** — from 
 | Tools | Git · Docker · Google Cloud · AWS · Figma · Vercel |
 | Domains | Quantum Computing · Computer Vision · Signal Processing · RF Propagation |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelgupta22&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelgupta22&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
